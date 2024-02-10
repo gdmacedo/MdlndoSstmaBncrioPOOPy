@@ -28,9 +28,9 @@ Neste desafio tivemos que atualizar a implementação do sistema bancário, para
 <!--UML session-->
 <p align="center"><img src="./img/UML.png" alt="UML"></p>
 
-# Orientador:
-## Guilherme Carvalho
-### Python Consultant, Oak Solutions
+### Orientador:
+-- Guilherme Carvalho
+-- Python Consultant, Oak Solutions
 
 
 ##
